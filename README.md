@@ -8,8 +8,8 @@ Hospital Surgery Scheduling Using Directed Acyclic Graph (DAG)
 
 ## 👥 Team Members
 
-* Member 1: V.Charani (CDS/2025/165) (PRN:250200004)
-* Member 2: G.Lakshmi Sai Teja (CDS/2025/1614) (PRN:250200474)
+* Member 1: V.Charani (CDS/2025/165) 
+* Member 2: G.Lakshmi Sai Teja (CDS/2025/1614) 
 
 ---
 
