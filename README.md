@@ -69,11 +69,6 @@ gcc main.c -o project
 
 <img width="328" height="106" alt="Screenshot 2026-04-04 at 8 56 12 PM" src="https://github.com/user-attachments/assets/46988850-4bf3-419c-9bc1-6354b2d3218e" />
 
-<img width="328" height="106" alt="Screenshot 2026-04-04 at 8 56 12 PM" src="https://github.com/user-attachments/assets/2ec78b5a-a75d-412c-9e23-e65f7d8f27cb" />
-
-<img width="328" height="106" alt="Screenshot 2026-04-04 at 8 56 12 PM" src="https://github.com/user-attachments/assets/d9f0704d-eb66-47ac-af20-c9fbda1c33ee" />
-</P>
-
 **🧾 Sample Run 2 – Display Surgeries**
 
 <img width="460" height="116" alt="Screenshot 2026-04-04 at 9 01 05 PM" src="https://github.com/user-attachments/assets/0ce816ee-2619-4807-b9e8-ea4da9c83116" />
